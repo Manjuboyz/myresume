@@ -10,7 +10,7 @@
   background: linear-gradient(to right, #89253e, #3a6186); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
    
   text-align: center;
-  position: fixed;
+  /* position: fixed; */
   top: 0;
   left: 0;
   width: 100%;
@@ -78,8 +78,8 @@
 }
 
 .banner-text {
-  background-color: black;
-  opacity: .8;
+  background-color: teal;
+  opacity: 0.9;
   width: 75%;
   margin: auto;
   border-radius: 10px;
@@ -106,7 +106,7 @@
 .social-links {
   display: flex;
   justify-content: space-between;
-  width: 50%;
+  width: 20%;
   margin: auto;
 }
 

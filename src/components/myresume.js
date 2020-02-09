@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { Grid, Cell } from 'react-mdl';
 import MyProfilePicture from '../images/manju.jpg';
 
-class LandingPage extends Component {
+class MyResume extends Component {
   render() {
     return(
         <div style={{width: '100%', margin: 'auto'}}>
@@ -40,4 +40,4 @@ class LandingPage extends Component {
     )
   }
 }
-export default LandingPage;
+export default MyResume;
